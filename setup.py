@@ -1,4 +1,4 @@
-from setuptools import setup, find_packages
+from setuptools import setup, find_packages, __version__
 
 exec(open('denoising_diffusion_pytorch/version.py').read())
 
